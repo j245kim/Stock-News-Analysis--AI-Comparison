@@ -20,3 +20,5 @@ For a real-world stock project, it’s essential to verify the credibility of ne
 
 ### Additional Resources:
 You can find more details in the AI comparison PowerPoint for further insights.
+
+https://github.com/j245kim/Stock-News-Analysis--AI-Comparison/blob/main/ai%20comparison.pptx
